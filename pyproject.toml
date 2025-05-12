@@ -1,0 +1,14 @@
+[project]
+name = "engineeringcloudscript"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = [
+    "loguru==0.7.3",
+    "numpy==2.2.3",
+    "openai==1.65.5",
+    "opencv-python==4.11.0.86",
+    "pycryptodome==3.21.0",
+    "python-dotenv>=1.1.0",
+    "requests==2.32.3",
+    "schedule==1.2.2",
+]

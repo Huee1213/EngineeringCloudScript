@@ -1,0 +1,38 @@
+{
+	"users": [
+		{
+			"username": "用户名称随意",
+			"email": "接收提醒邮件的邮箱地址",
+			"phone": "工学云账号",
+			"password": "工学云密码",
+			"configInfo": {
+				"jobSetting": {
+					"post": "工作岗位"
+				},
+				"timeSetting": {
+					"signInTime": {
+						"start": "几点上班",
+						"end": "几点下班"
+					},
+					"weeklyReportTime": {
+						"week": "星期几",
+						"time": "几点"
+					},
+					"monthlyReportTime": {
+						"day": "几号",
+						"time": "几点"
+					}
+				},
+				"addressSetting": {
+					"country": "国家",
+					"province": "省份",
+					"city": "城市",
+					"area": "地区",
+					"address": "详细地址",
+					"longitude": "经度",
+					"latitude": "维度"
+				}
+			}
+		}
+	]
+}

@@ -1,0 +1,5 @@
+/test/
+/log/
+/.env
+/data/users.json
+/data/users_login_info.json
